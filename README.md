@@ -1,2 +1,2 @@
 # P3MB
-P3MB PS1 variable
+The P3MB project gathers the public identity of the P3MB high-performance computing platform.
